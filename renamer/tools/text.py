@@ -3,7 +3,7 @@ from pyrogram.emoji import *
 class TEXT:
     DOWNLOAD_START = f"Downloading Starts soon {SLEEPING_FACE}"
     UPLOAD_START = f"Upload Starting Soon {SLEEPING_FACE}"
-    UPLOAD_SUCESS = f"Thanks for using [me](https://github.com/Ns-AnoNymouS/TG-RENAMER-BOT)"
+    UPLOAD_SUCESS = f"Thanks for using [me](https://t.me/ImJithula)"
     BANNED_USER_TEXT = f"Hey bro, you are **banned** from using me {FACE_WITH_TEARS_OF_JOY}."
     NOT_LOGGED_TEXT = f"This bot was only for private use {LOCKED_WITH_KEY}. If you want to use this bot you need to send me correct password in the format `/login bot_password`"
     SAVED_CUSTOM_THUMBNAIL = f"Thumbnail Saved Permanently {NOTEBOOK_WITH_DECORATIVE_COVER}"
@@ -22,11 +22,11 @@ class TEXT:
 
 ** Developer:** {bot_owner}
 
-** Channel:** [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+** Channel:** [SL TEACH KOLLA](https://t.me/slteachkolla_official)
 
-** Group:** [Ns BOT SUPPORT](https://t.me/Ns_Bot_supporters)
+** Group:** [SL TEACH KOLLA DISCUSSION](https://t.me/sl_teach_kolla_discussion)
 
-** Source Code:** [Press Me](https://github.com/Ns-AnoNymouS/TG-RENAMER-BOT)
+** Spacial Thanks:** [AnoNymouS](https://github.com/Ns-AnoNymouS)
 """
 
     HELP_USER = """**Follow Below Steps:**
@@ -36,7 +36,7 @@ class TEXT:
 ☞︎︎︎ Now send me the Telegram file you want to rename.
 ☞︎︎︎ Send the new name when bot ask.
 
-For source code check about
+Devoloper @ImJithula
 """
 
     START_TEXT = """Hi {user_mention},
@@ -49,14 +49,8 @@ I am a telegram renamer with permanent thumbnail.
 """
 
 
-    DONATE_USER = """**__Thanks for showing interest in donation.__**
+    DONATE_USER = """**Don't Donate For Me **
  
-Donate us to keep our services continously alive
-You can send any amount 
-of 20rs, 30rs, 50rs, 70rs, 100rs, 200rs
+Please Join My Channel (●'◡'●)
  
-__--Payment Methods:--__
- 
-GooglePay / Paytm / PhonPay / paypal / Net Banking
- 
-**For Donate:** message me @MaxxRiderz"""
+**Join Channel:** https://t.me/slteachkolla_official"""
